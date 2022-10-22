@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Site creegs.com</title>
+		<link rel="stylesheet" href="MainStyle.css">
+		<link rel="icon" href="images/icon.ico" type="image/ico">
+	</head>
+
+	<body>
+		<a href="index.html"><p id="greentext">Home</p></a>
+		<h1 id="greentextcenter" style="font-size: 100px">CREEGS.COM</h1>
+
+		<br>
+		
+		<p id="greentextcenter" style="font-size: 30px">This site is under construction. UwU. - Your Mommy MIKU</p>
+		<p style="text-align: center"><img src="images/hatsunemiku.jpg" alt="miku" style="width:512px;height:391px;"></p>
+	</body>
+</html>

@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+
+#greentextcenter{
+    color:chartreuse;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#greentext{
+    color: chartreuse;
+    font-family: 'Courier New', Courier, monospace;
+}
