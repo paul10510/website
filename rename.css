@@ -1,0 +1,16 @@
+body {
+    background-color: maroon;
+}
+
+p {
+    color: gold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a { 
+    color: gold;
+}
+
+h1 { 
+    color: gold;
+}
